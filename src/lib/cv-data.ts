@@ -42,7 +42,7 @@ export const cvData = {
     {
       name: "Laptop Party",
       description: "Real-time browser-based screen-sharing platform (no installation required).",
-      url: null,
+      url: "https://www.laptopparty.com/",
       bullets: [
         "Contributed to full-stack optimization and system performance",
         "Improved user interaction and real-time reliability",
@@ -50,8 +50,8 @@ export const cvData = {
     },
     {
       name: "Internset.ai",
-      description: "Virtual internship & early-talent verification platform.",
-      url: null,
+      description: "Virtual internship & early-talent verification platform (work in progress).",
+      url: "https://internset.ai",
       bullets: [
         "Designed backend systems and API integrations",
         "Contributed to deployment architecture and scalability",
