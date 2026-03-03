@@ -98,9 +98,9 @@ export const cvData = {
   ],
 
   certifications: [
-    "Scrimba — Introduction to ES6+ (2 hrs, 38 lessons)",
-    "Scrimba — Learn JavaScript (9.4 hrs, 237 lessons)",
-    "Scrimba — Learn HTML & CSS (5.7 hrs, 119 lessons)",
+    "Scrimba — Introduction to ES6+",
+    "Scrimba — Learn JavaScript",
+    "Scrimba — Learn HTML & CSS",
   ],
 
   publication:
